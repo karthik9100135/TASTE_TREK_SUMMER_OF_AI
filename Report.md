@@ -112,8 +112,8 @@ By combining **offline speech recognition (Vosk)** and **natural language proces
 
 - **Karthik (Developer)**  
   - Streamlit layout & UX  (Tulasi Reddy)
-  - Vosk integration and voice flow   (Sai Aneesh)
-  - GPT-based food history logic  (Laxmi prasanna)
+  - Vosk integration and voice flow   (Gowri shankar)
+  - GPT-based food history logic  (Chandrika priya)
   - Testing & Documentation
 
 ---
