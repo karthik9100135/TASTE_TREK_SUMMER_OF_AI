@@ -1,0 +1,6 @@
+streamlit>=1.30
+vosk>=0.3.45
+openai>=1.0.0
+requests
+pydub
+pillow
